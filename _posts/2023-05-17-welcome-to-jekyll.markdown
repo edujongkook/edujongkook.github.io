@@ -1,14 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "python 기초 프로그래밍 1일차"
 date:   2023-05-17 17:21:57 +0900
-categories: jekyll update
+categories: python sbs
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
 
-`YEAR-MONTH-DAY-title.MARKUP`
+소스코드 : [python_기초_1주차][ipynb]
+/ 이메일 주소 : [edujongkook@gmail.com][email]
+
+#강의 스케쥴
+
 
 Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
@@ -24,6 +26,8 @@ print_hi('Tom')
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
+[ipynb]: https://github.com/edujongkook/colab_sbs_python_weekend/blob/main/python_%EA%B8%B0%EC%B4%88_1%EC%A3%BC%EC%B0%A8.ipynb
+[email]: mailto:edujongkook@gmail.com
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
